@@ -37,7 +37,7 @@ Use the imageScale property if the pin image is too large.
 */
 
 UnminedCustomMarkers = {
-///tp -417.5 74 -1114.5
+    ///tp -417.5 74 -1114.5
     isEnabled: true,
 
     markers: [
@@ -50,8 +50,51 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
             text: "Spawn",
+            textColor: "#FFFFFF",
+        },
+        {
+            x: -417.5,
+            z: -1114.5,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Farm de ouro",
+            textColor: "#FFFFFF",
+            offsetX: 0,
+            offsetY: 0,
+        },
+        {
+            x: -133,
+            z: -826,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Farm de Shulker",
+            textColor: "#FFFFFF",
+            offsetX: 0,
+            offsetY: 0,
+        }, {
+            x: 1304,
+            z: -472,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Farm Raid",
+            textColor: "#FFFFFF",
+            offsetX: 0,
+            offsetY: 0,
+        }, {
+            x: -423,
+            z: -942,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Lojinha",
+            textColor: "#FFFFFF",
+            offsetX: 0,
+            offsetY: 0,
         },
 
-   
+
     ]
 }
