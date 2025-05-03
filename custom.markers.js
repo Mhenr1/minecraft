@@ -37,15 +37,14 @@ Use the imageScale property if the pin image is too large.
 */
 
 UnminedCustomMarkers = {
-    ///tp -417.5 74 -1114.5
+   
     isEnabled: true,
 
     markers: [
 
         // Example 1: Simple marker
         {
-            x: -182,
-            z: -887,
+            x: -182, z: -887,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
@@ -53,8 +52,7 @@ UnminedCustomMarkers = {
             textColor: "#FFFFFF",
         },
         {
-            x: -417.5,
-            z: -1114.5,
+            x: -417.5, z: -1114.5,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
@@ -64,8 +62,7 @@ UnminedCustomMarkers = {
             offsetY: 0,
         },
         {
-            x: -133,
-            z: -826,
+            x: -133, z: -826,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
@@ -74,8 +71,7 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 0,
         }, {
-            x: 1304,
-            z: -472,
+            x: 1304, z: -472,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
@@ -84,8 +80,7 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 0,
         }, {
-            x: -423,
-            z: -942,
+            x: -423, z: -942,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
@@ -94,6 +89,26 @@ UnminedCustomMarkers = {
             offsetX: 0,
             offsetY: 0,
         },
+        {
+            x: -164, z: -2387,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Farm Afogado",
+            textColor: "#FFFFFF",
+            offsetX: 0,
+            offsetY: 0,
+        },
+        {
+            x: 1112, z: -3864,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Farm de bruxa",
+            textColor: "#FFFFFF",
+            offsetX: 0,
+            offsetY: 0,
+        }
 
 
     ]

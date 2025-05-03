@@ -6,13 +6,9 @@ var UnminedMapProperties = {
     imageFormat: "webp",
     minRegionX: -6,
     minRegionZ: -12,
-    maxRegionX: 6,
+    maxRegionX: 19,
     maxRegionZ: 1,
-    worldName: "teste",
+    worldName: "BobberWorld",
     background: "#7b7b7b",
-    markers: new Array(),
-    enableGrid: true,
-    showGrid: true,
-    centerX: -182,
-    centerZ: -887
+    markers: new Array()
 }
