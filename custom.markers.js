@@ -108,6 +108,15 @@ UnminedCustomMarkers = {
             textColor: "#FFFFFF",
             offsetX: 0,
             offsetY: 0,
+        },{
+            x: 232, y: -2408,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Farm de Guardian",
+            textColor: "#FFFFFF",
+            offsetX: 0,
+            offsetY: 0,
         }
 
 
